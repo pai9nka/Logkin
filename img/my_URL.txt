@@ -1,0 +1,109 @@
+Доктор по урологии пример сайта
+https://www.drbevan-thomas.com/
+
+Прошивка платы Гироскутера «Инструкция»
+https://www.youtube.com/watch?v=q7d9DVCV_ZY
+
+mx linux btrfs на внешнем диске
+https://www.youtube.com/watch?v=TbOa4w1O_6c
+
+https://www.xnxx.com/video-158zrfe0/vixen_
+ESP32 + cnc + FluidNC развитие !!
+https://www.youtube.com/watch?v=6qGAZNId1fM
+https://www.youtube.com/watch?v=V-6Z--JjySc&list=PLo2RcP-R2x2oYZTkG8bfKj5RMGNZbi5EO&index=3
+
+Умный звонок на ESP32 CAM + Android приложение
+https://www.youtube.com/watch?v=1FJSTyXEtSo
+
+Панель ISP2
+https://server139.hosting.reg.ru:1500/ispmgr#/list/letsencrypt.logs/5?elid=denisgrill.com_le1&elname=denisgrill.com_le1&p_num=1
+
+
+
+https://randomnerdtutorials.com/esp32-esp8266-dht-temperature-and-humidity-oled-display/
+
+ESP-32 CAM c USB to TTL 340
+https://microtechnics.ru/bystryj-start-s-esp32-i-ov2640-modul-esp32-cam/?ysclid=l555c7s5lh926012789
+
+https://www.linuxbabe.com/ubuntu/easily-create-windows-10-bootable-usb-ubuntu
+
+https://dellwindowsreinstallationguide.com/creating-a-windows11-bootable-usb-on-linux/
+
+ЯУЕЛЮ ДКЪ ЯРЕЙКННВХЯРХРЕКЪ
+https://honda-tech.com/forums/honda-civic-del-sol-1992-2000-1/wiper-motor-wiring-question-3116651/
+
+HS101 is a portable and compact DIY oscilloscope for mobile phones:
+http://hscope.martinloren.com/HS101-oscilloscope.html
+http://hscope.martinloren.com/HS10X-custom-modules.html
+https://www.electronics-lab.com/project/hs101-high-quality-cheap-diy-oscilloscope/  - ! НР ЯЧДЮ МЮВХМЮК !!!
+
+
+нРНАПЮФЕМХЕ МЮ OLED SSD1306 Я ДЮРВХЙЮ DHT11
+https://www.youtube.com/watch?v=Ei7aF9qw4kc
+
+йМХЦХ ОН Arduino
+https://disk.yandex.ru/d/XOodnpJoBzVx9g/Arduino%20books
+
+ESP-NOW МЮ ESP32: ЙЮЙ НРОПЮБКЪРЭ ДЮММШЕ МЮ МЕЯЙНКЭЙН ОКЮР Я НДМНИ ESP32?
+https://voltiq.ru/esp-now-one-to-many-esp32-esp8266/
+
+аЕЯОПНБНДМЮЪ ГЮЦПСГЙЮ ЙНДЮ МЮ ESP32. 
+хЯОНКЭГНБЮМХЕ АХАКХНРЕЙХ AsyncElegantOTA Б ЯПЕДЕ Arduino.
+https://voltiq.ru/esp32-ota-over-the-air-arduino/
+
+Connecting a USB-to-Serial Adapter to ESP-12E/ESP-12F
+https://circuitjournal.com/esp8266-with-arduino-ide#manually-connecting-to-esp12
+
+гЮЬХРЭ ESP 12E АЕГ ОПНАКЕЛ Х ГЮЛНПНВЕЙ (ЮМЮКНЦ ESp 12F)  ?? оПНБНД мю REST ???
+https://www.youtube.com/watch?v=r8QSixGtBEo
+
+оЮЪКЭМХЙ Arduino + LM385 + IRFZ44
+http://my-project.link/payalnaya-stantsiya-svoimi-rukami-na-arduino-diy/
+
+оНДЙКЧВЕМХЕ РЕПЛНОЮПШ ESP8286 + MAX31855
+https://www.bizkit.ru/2019/03/13/12936/  - 
+
+нЛЛЕРП МЮ Arduino
+https://www.2ram.ru/t/5/
+https://www.youtube.com/watch?v=8CrBEsbPsUI&t=129s
+
+цКСЬХКЙХ WIFI МЮ esp8266
+https://github.com/SpacehuhnTech/esp8266_deauther/releases
+
+оПХЛЕПШ ДКЪ ДХЯОКЕЪ ARDUINO + SSD1306   =  яПЮАНРЮКН  ДКЪ ОНДЙКЧВЕМХЪ ВЕПЕГ +5v
+гДЕЯЭ ФЕ ЕЯРЭ реяр ЮДПЕЯЮ ДКЪ ЬХМШ I2C
+
+https://www.instructables.com/Intro-Esp-8266-firmware-update/
+
+https://www.best-microcontroller-projects.com/nodemcu-firmware.html
+https://github.com/marcelstoer/nodemcu-pyflasher
+https://nodemcu.readthedocs.io/en/release/en/flash/
+
+оПХЛЕПШ ДКЪ ДХЯОКЕЪ ARDUINO + SSD1306   =  яПЮАНРЮКН  ДКЪ ОНДЙКЧВЕМХЪ ВЕПЕГ +5v
+гДЕЯЭ ФЕ ЕЯРЭ реяр ЮДПЕЯЮ ДКЪ ЬХМШ I2C
+
+https://drive.google.com/drive/folders/1yfSIHMnGz1G5FxkaqPxsyznyta3CCqmN
+
+https://esp32io.com/tutorials/communication-between-two-esp32
+
+Modbus Library for Arduino -ESP32
+https://github.com/emelianov/modbus-esp8266
+
+https://techtutorialsx.com/2018/05/21/esp32-socket-server-connecting-from-a-putty-socket-client/
+
+ESP32 - меАШЯРПШИ ЯРЮПР !!!  йКЮЯЯМШЕ ОПХЛЕПШ Я task - НР ОПНЯРНЦН Й ЯКНФМНЛС
+https://www.youtube.com/watch?v=KosUkJmHWxI
+
+!!! яНГДЮИРЕ ОПНЯРНИ БЕА-ЯЕПБЕП ESP32 Б ЯПЕДЕ Arduino IDE  
+=== яПЮАНРЮКН СОПЮБКЕМХЕ ХГ АПЮСГЕПЮ ЯБЕРНДХНДЮЛХ =============================
+https://lastminuteengineers.com/creating-esp32-web-server-arduino-ide/
+
+Bluetooth МЮ юМДПНХД || яНГДЮЕЛ акчрсг лнмхрнп || вЮЯРЭ 1-12 
+https://www.youtube.com/watch?v=Zjx5F6o6JGI&list=PLmjT2NFTgg1crM3VTvQhTh8zXQp0IIHyB&index=1
+
+оПНЦПЮЛЛХПНБЮМХЕ STM32 ХГ Arduino IDE - япюанрюкн б WINDOWS
+https://www.youtube.com/watch?v=5mThFmpC1U4
+
+мЮЯРПНИЙЮ STM32CubeIDE - + ГЮЛЕМЮ _CPU  0x1ba01477  МЮ 0x2ba01477  Б XXXXfxx.cfg
+https://www.youtube.com/watch?v=14d3rNucyzE
+
