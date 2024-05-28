@@ -8,5 +8,8 @@ window.addEventListener("scroll", function () {
   } else {
     headerEl.classList.remove("header_mini")
   }
+  console.log(headerH)
+  
+  /*document.getElementsByClassName('header')[0].style.height */
 })
 
