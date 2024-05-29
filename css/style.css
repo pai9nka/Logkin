@@ -37,7 +37,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: rgba(237, 254, 185, 0.7);
+    background-color: rgba(244, 215, 242, 0.7);
     z-index: 9999;
     transition: box-shadow .3s;
     backdrop-filter: blur(8px);
@@ -123,11 +123,12 @@ body {
     -webkit-box-shadow: 13px 14px 17px rgba(0,0,0,.25);
     box-shadow: 13px 14px 17px rgba(0,0,0,.25);
     border-radius: 15px;
-    padding: 30px 10px;
+    padding: 20px 10px;
     position: static;
     overflow: hidden;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
+
 .flexbox-container {
     
     display: flex;
@@ -157,3 +158,8 @@ body {
     margin-right: -15px;
     margin-left: -15px;
   }
+.I_Stamp {
+    display: -webkit-flex;
+    float: right;
+    
+}
