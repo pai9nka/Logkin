@@ -143,13 +143,21 @@ body {
 }
 
 .about_{
+    background-image: url("../img/background-2.jpg");
+    
+    background-position: center;
+    background-size: cover;
+
+    /* height: 400px;
+    width: 400px; */
+
     width: 100%;
     height: auto;
-    background: image("img/background-2.jpg");
-     /*url(../img/background-2.jpg) alt no-repeat 50%;*/
+    /*background: image("");
+     url(../img/background-2.jpg) alt no-repeat 50%;*/
     
-    background-size: cover;
-  }
+
+}
 
 .row {
     display: -webkit-flex;
