@@ -13,7 +13,7 @@ window.addEventListener("scroll", function () {
 
 window.addEventListener('resize', function() {
   const  headerH   = headerEl.offsetHeight
-  if (headerH > 100) {
+  if (headerH > 101) {
 
     headerEl.classList.add("header_mini")
   } else {
@@ -27,4 +27,4 @@ window.onresize = function(event) {
     var elem = document.getElementById("twitter-2");
     elem.setAttribute("style","margin: 20px 1px;");
 }
-*/ */
+/* */
