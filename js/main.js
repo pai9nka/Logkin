@@ -13,7 +13,8 @@ window.addEventListener("scroll", function () {
 
 window.addEventListener('resize', function() {
   const  headerH   = headerEl.offsetHeight
-  if (headerH > 125) {
+  if (headerH > 100) {
+
     headerEl.classList.add("header_mini")
   } else {
     headerEl.classList.remove("header_mini")
@@ -21,3 +22,9 @@ window.addEventListener('resize', function() {
 
   console.log(headerH);
 });
+/*
+window.onresize = function(event) {
+    var elem = document.getElementById("twitter-2");
+    elem.setAttribute("style","margin: 20px 1px;");
+}
+*/ */
