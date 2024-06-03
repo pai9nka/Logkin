@@ -95,7 +95,7 @@ body {
 }
 
 .cats__img {
-    transition: 1s; /* Время эффекта */
+    transition: 1s; /* Вмя эффекта */
 }
 .cats__img:hover {
         transform: scale(1.1); /* Увеличиваем масштаб */
@@ -135,6 +135,26 @@ body {
     justify-content: center;
     
 }
+.ab_{
+    display: -webkit-flex;
+    font-size:16px;
+    line-height:10px;
+    color:#ededda;
+    /*background-color:#085870;*/
+    width: 200%;
+    padding:20px;
+    
+
+    background: #84FBFF;
+    background: -moz-linear-gradient(-45deg, #84FBFF 0%, #FFFFFF 50%, #FFFFFF 100%);
+    background: -webkit-linear-gradient(-45deg, #84FBFF 0%, #FFFFFF 50%, #FFFFFF 100%);
+    background: linear-gradient(135deg, #84FBFF 0%, #FFFFFF 50%, #FFFFFF 100%);
+ }
+ 
+.box_ab1 {
+    /*text-align: center;*/
+}
+
 .box_text{
    text-align: center;  
    padding-left: 5px ;
@@ -142,32 +162,107 @@ body {
 
 }
 
-.about_{
-    background-image: url("../img/background-2.jpg");
-    
-    background-position: center;
-    background-size: cover;
-
-    /* height: 400px;
-    width: 400px; */
-
-    width: 100%;
-    height: auto;
-    /*background: image("");
-     url(../img/background-2.jpg) alt no-repeat 50%;*/
-    
-
+.text_ab0 {
+    padding-left: 20px; 
+    padding-top:   5px;
+    margin: 0;
+    color: #3e3e9a;
+}
+.text_ab1 {
+    padding-left: 20px; 
+    padding-top:   5px;
+    margin: 0;
+    /*font-size: 35px;*/
+    color: #000000;
 }
 
+.text_ab2 {
+    padding-left: 20px; 
+    padding-top:   5px;
+    margin: 0;
+    color: #120208;
+}
+
+
+
 .row {
+ 
     display: -webkit-flex;
     -ms-flex-wrap: wrap;
-   
+    flex-wrap: wrap;
     margin-right: -15px;
     margin-left: -15px;
   }
+.img_oper{
+    opacity: 1;
+    transition: opacity 400ms;
+    transition-delay: 0ms;
+    margin-left: 10px;
+    margin-right: 10px;
+    align-items: center;
+    
+    
+}  
 .I_Stamp {
     display: -webkit-flex;
     float: right;
     
+}
+
+.container2 {
+    position: relative;
+    background: #2c3e50;
+    height: 50vh;
+  }
+  
+  .wave {
+    position: absolute;
+    height: 81px;
+    width: 100%;
+    background: #2c3e50;
+    bottom: 0;
+  }
+  
+  .wave::before, .wave::after {
+    content: "";
+    display: block;
+    position: absolute;
+    border-radius: 100% 50%;
+  }
+  
+  .wave::before {
+    width: 55%;
+    height: 109%;
+    background-color: #fff;
+    right: -1.5%;
+    top: 60%;
+  }
+  .wave::after {
+    width: 55%;
+    height: 100%;
+    background-color: #2c3e50;
+    left: -1.5%;
+    top: 40%;
+  }
+  
+  .layout {
+    display: flex;
+    gap: 16px;
+    width: 100%;
+    justify-content: center;
+  }
+
+  span.red_ {
+    color: #f00;
+  }
+  
+.cont_{
+    display: inline-flex;
+    font-family: sans-serif;
+}
+
+.box1 {
+  padding: 50px;
+  border-radius: 15px;
+  background-color: aqua;
 }
