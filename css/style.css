@@ -135,7 +135,7 @@ body {
     justify-content: center;
     
 }
-.ab_{
+.ab__{
     display: -webkit-flex;
     font-size:16px;
     line-height:10px;
@@ -172,7 +172,7 @@ body {
     padding-left: 20px; 
     padding-top:   5px;
     margin: 0;
-    /*font-size: 35px;*/
+    font-size: 15px;
     color: #000000;
 }
 
@@ -181,6 +181,7 @@ body {
     padding-top:   5px;
     margin: 0;
     color: #120208;
+    text-align: left;
 }
 
 
@@ -257,8 +258,13 @@ body {
   }
   
 .cont_{
-    display: inline-flex;
-    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    align-content: flex-start;
+    
 }
 
 .box1 {
@@ -266,3 +272,58 @@ body {
   border-radius: 15px;
   background-color: aqua;
 }
+
+.flexbox-panel {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.flexbox-item {
+    flex: 0 1 auto;
+
+}
+
+.flex-item:nth-child(1) {
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    
+    border-radius: 15px;
+    background-color: aqua;
+    
+}
+
+.flex-item:nth-child(2) {
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+}
+
+.flex-container_ {
+    display: flex;
+    align-items: stretch;
+    background-color: #f1f1f1;
+    /*
+    background: #84FBFF;
+    background: -moz-linear-gradient(-45deg, #84FBFF 0%, #FFFFFF 50%, #FFFFFF 100%);
+    background: -webkit-linear-gradient(-45deg, #84FBFF 0%, #FFFFFF 50%, #FFFFFF 100%);
+    background: linear-gradient(135deg, #84FBFF 0%, #FFFFFF 50%, #FFFFFF 100%);*/
+
+  }
+  
+  .flex-container_ > div {
+    /*background-color: DodgerBlue;*/
+    background: #84FBFF;
+    background: -moz-linear-gradient(-45deg, #84FBFF 0%, #FFFFFF 50%, #FFFFFF 100%);
+    background: -webkit-linear-gradient(-45deg, #84FBFF 0%, #FFFFFF 50%, #FFFFFF 100%);
+    background: linear-gradient(135deg, #84FBFF 0%, #FFFFFF 50%, #FFFFFF 100%);
+    color: white;
+    margin: 10px;
+    text-align: center;
+    line-height: 15px;
+    font-size: 15px;
+  }
